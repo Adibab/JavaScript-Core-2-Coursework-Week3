@@ -58,3 +58,5 @@ function readingList(books) {
     contentEle.appendChild(createBookLstUl);
   });
 }
+
+readingList(books);
